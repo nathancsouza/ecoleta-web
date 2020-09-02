@@ -13,11 +13,11 @@
 
 </h3>
 
-![Banner](https://user-images.githubusercontent.com/38081852/84095189-04178580-a9d5-11ea-9496-9ec6f6a282e5.png)
-
 ## **:rocket: PROJECT**
 
 The project aims to **establish a connection** between **companies and / or entities that collect waste** (organic and inorganic) **to people and / or entities that constantly need to dispose of this waste**. Solving a major recurring problem that is **inappropriate waste disposal**, facilitating the recycling and reuse process.
+
+
 
 <!-- Website Links -->
 
