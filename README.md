@@ -9,7 +9,10 @@
 </div>
 
 <h3 align="center">
+  
+**Link to [Back End][backend_site]**
 
+**Deploy: [ecoleta.nathansouza.com][deploy_site]**
 
 </h3>
 
@@ -22,6 +25,8 @@ The project aims to **establish a connection** between **companies and / or enti
 <!-- Website Links -->
 
 [rocketseat_site]: https://rocketseat.com.br/
+[backend_site]: https://github.com/nathancsouza/ecoleta-back-end/
+[deploy_site]: https://ecoleta.nathansouza.com/
 
 <!-- Badges -->
 
