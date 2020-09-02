@@ -4,8 +4,6 @@ import { FiArrowLeft } from 'react-icons/fi';
 import { Map, TileLayer, Marker } from 'react-leaflet';
 import { LeafletMouseEvent } from 'leaflet';
 
-import { useToast } from '../../hooks/Toast';
-
 import api from '../../services/api'
 
 import './styles.css';
@@ -18,8 +16,6 @@ interface Item {
 }
 
 const CreatePoint = () => {
-
-  const { addToast } = useToast();
   
   const [ items, setItems ] = useState<Item[]>([]);
 
