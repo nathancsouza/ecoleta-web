@@ -12,8 +12,6 @@
   
 **Link to [Back End][backend_site]**
 
-**Deploy: [ecoleta.nathansouza.com][deploy_site]**
-
 </h3>
 
 ## **:rocket: PROJECT**
